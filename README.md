@@ -1,5 +1,29 @@
 # 💫 About Me:
- Software Engineer | Full Stack MERN Developer | AI/ML Engineer <br><br>I’m a Computer Science graduate passionate about building scalable web applications, intelligent automation, and AI-driven systems. I enjoy turning complex problems into clean, efficient solutions.<br><br>💻 What I work with:<br>- Frontend: React, Redux, Tailwind CSS, Bootstrap  <br>- Backend: Node.js, Express, NestJS, REST APIs  <br>- Databases: MongoDB, PostgreSQL, MySQL  <br>- AI/ML: Python, TensorFlow, YOLOv8, NLP  <br>- Automation: Selenium, TagUI, RPA  <br>- DevOps: Docker, AWS, CI/CD, Linux  <br><br>🧠 Experience:<br>- Software Engineering Intern @ Creative Capsule (RPA + Full Stack)<br>- AI/ML Intern @ Infosys <br>-AI/ML Intern @ EduSkills (Google AI-ML Program)<br><br>📌 Currently:<br>- Exploring scalable backend systems and AI-powered applications  <br>- Improving problem-solving & system design skills  <br><br>📫 Reach me at:  <br>📧 pratikharkare6007@gmail.com  <br>🔗 linkedin.com/in/pratik-harkare<br>
+Software Engineer | Full Stack MERN Developer | AI/ML Engineer  
+
+I’m a Computer Science graduate passionate about building scalable web applications, intelligent automation, and AI-driven systems. I enjoy turning complex problems into clean, efficient solutions.
+
+## 💻 What I Work With:
+- Frontend: React, Redux, Tailwind CSS, Bootstrap  
+- Backend: Node.js, Express, NestJS, REST APIs  
+- Databases: MongoDB, PostgreSQL, MySQL  
+- AI/ML: Python, TensorFlow, YOLOv8, NLP  
+- Automation: Selenium, TagUI, RPA  
+- DevOps: Docker, AWS, CI/CD, Linux  
+
+## 🧠 Experience:
+- Full Stack Developer – Web Applications @ Nanu Engineers Pvt Ltd
+- Software Engineering Intern – Creative Capsule (RPA + Full Stack)
+- AI/ML Intern – Infosys  
+- AI/ML Intern – EduSkills (Google AI-ML Program)
+
+## 📌 Currently:
+- Exploring scalable backend systems and AI-powered applications  
+- Improving problem-solving & system design skills  
+
+## 📫 Contact:
+- 📧 pratikharkare6007@gmail.com  
+- 🔗 linkedin.com/in/pratik-harkare
 
 
 ## 🌐 Socials:
